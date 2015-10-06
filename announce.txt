@@ -3,3 +3,5 @@
 Microsoft社の、
 Bill Gates氏が、
 講演会を行う
+「Moon Micro Systems社の開発環境 Moon-1を用いた開発」
+学生の受講料2000円
